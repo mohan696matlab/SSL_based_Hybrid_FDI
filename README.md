@@ -6,7 +6,7 @@ Repository containing the codes to reproduce the results presented in the  [rese
 
 ## Files and Descriptions
 
-- `sensor_datacsv, Electrolyzer_faults.csv`: [Fault dataset generated from the experimental setup one containing raw sensor measurements and one containing residual signals]
+- `sensor_data.csv, Electrolyzer_faults.csv`: [Fault dataset generated from the experimental setup one containing raw sensor measurements and one containing residual signals]
 - `part_1_Hybrid_FDI_SSL_LFT_BG.ipynb`: [The proposed algoithm is demonstrated on the Electrolyzer dataset]
 - `part_2_Ablation_Study.ipynb`: [Effct of various parameters on the proposed algorithm]
 - `part_3_XAI_Occlusion.ipynb`: [BG-XAI method to explain the decision given by the deep learning model]
