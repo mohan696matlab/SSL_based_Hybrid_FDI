@@ -2,7 +2,7 @@
 
 ## Overview
 
-Repository containing the codes to reproduce the results presented in the  [reserach paper]([https://website-name.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641395))
+Repository containing the codes to reproduce the results presented in the  [reserach paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641395)
 
 ## Files and Descriptions
 
