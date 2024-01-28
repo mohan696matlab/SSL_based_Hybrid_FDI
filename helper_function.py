@@ -92,6 +92,9 @@ def DeepLearningModel(InputFeature, Target, last_layer_activation, loss_fn):
     # Define CNN layers with batch normalization in between
     cnn1 = Conv1D(32, 3, padding='same', activation='relu')(input_layer)
     cnn1 = Conv1D(32, 3, padding='same', activation='relu')(cnn1)
+    cnn1 = Conv1D(32, 3, padding='same', activation='relu')(cnn1)
+    cnn1 = Conv1D(32, 3, padding='same', activation='relu')(cnn1)
+    cnn1 = Conv1D(32, 3, padding='same', activation='relu')(cnn1)
     cnn1 = Flatten()(cnn1)
 
     # Define hidden layer with batch normalization
